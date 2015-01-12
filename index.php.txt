@@ -1,0 +1,29 @@
+<html>
+    <head>
+      <title> Welcome to Website Builder </title>
+<link rel="stylesheet" href="style.css" >
+    </head>
+
+<body>
+<div id="header"> This is the header </div>
+
+<div id="navbar"> Navigation Bar</div>
+<ul>
+   <li> <a href="#"> HOME </a> </li>
+   <li> <a href="#"> ABOUT </a> </li>
+   <li> <a href="#"> CONTENT1</a> </li>
+   <li> <a href="#"> CONTENT 2</a> </li>
+<li> <a href="#"> ABOUT </a> </li>
+<li> <a href="#"> Contact</a> </li>
+</ul>
+<div id="post"> Content Area </div>
+
+
+<div id="maincontent"> Side Bar </div>
+
+
+<div id="footer"> Footer </div>
+
+</body>
+</html>
+	

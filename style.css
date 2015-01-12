@@ -1,0 +1,66 @@
+body {
+   background-color:#D3CCFF;
+padding:0;
+margin:0;
+}
+
+#header{ width:1000px; height:100px; background:#D3CCFF;
+font-family:comic sans MS;
+
+margin-left:auto;
+margin-right:auto;
+}
+
+#navbar{ 
+background:#E3427A;
+width: 1000px;
+margin-right: auto;
+margin-left: auto;
+height:45px;
+ }
+
+#main_content {
+width: 865px;
+border-right: 2px solid gray;
+margin-left:132px;
+margin-right:auto;
+float:left;
+background:white;
+
+}
+#main_content p {padding: 5px;
+}
+#main_content a:link{font-size:22px; font-family:comic sans MS; }
+#main_content h2 { padding: 5px; color:brown; }
+#sidebar {
+width: 200px;
+float:right;
+margin-right:130px;
+
+background:gray;
+ }
+#social {
+text-align: center;
+}
+#social img {
+width:40px; margin:5px; padding:3px; }
+#social h2 {
+font-size: 33px;
+font-family: comic sans MS;
+}
+#footer {
+width:100%;
+height:80px;
+background:orange;
+clear:both;}
+a { color: inherit;}
+#logo { float:left; }
+#banner {float:right; }
+#ul {padding-top: 8px; }
+#ul li{list-style: none; display: inline;  }
+#ul li a:link{ color:white; text-decoration: none; border-right: 1px solid gray;
+font-size: 18px; font-family: Comic Sans MS; margin: 5px;
+font-color:white;
+}
+#ul li a:hover{ color: white; text-decoration:underline;
+font-size:18px; background: orange; }
